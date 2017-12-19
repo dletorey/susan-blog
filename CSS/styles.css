@@ -57,7 +57,7 @@ body {
     justify-content: space-between;
   }
 }
-@media (min-width: 700px) {
+@media (min-width: 770px) {
   body {
     grid-template-columns: 1fr 4fr 1fr;
     grid-template-areas: 
