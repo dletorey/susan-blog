@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <mysource_area id_name="head_content" design_area="nest_content" cache="1" /> 
+    </head>
+    <body>
+        <mysource_area id_name="header" design_area="nest_content" cache="1" />
+        <mysource_area id_name="navigation" design_area="menu_normal">
+            <mysource_set name="settings.class.normal" value="" />
+            <mysource_set name="settings.class.current" value="selected" />
+            <mysource_set name="settings.class.hierarchy" value="selected" />
+            <mysource_set name="settings.class.has_children" value="child" />
+            <nav>
+                <ul>
+                    <mysource_asset>
+                        <li class="<mysource_print var='settings.class' />"><a href="<mysource_print var='asset_href' />"><mysource_print var='asset_short_name'></a></li>
+                    </mysource_asset>
+                </ul>
+            </nav>
+        </mysource_area>
+        <article>
+            <h1><mysource_print id_name="__global__" var="asset_name" /></h1>
+            <mysource_area id_name="body" design_area="body" />
+        </article> 
+        <mysource_area id_name="aside" design_area="nest_content" cache="1" />
+        <mysource_area id_name="footer" design_area="nest_content" cache="1" />
+</body>
+</html>
