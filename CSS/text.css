@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 
-/* html, body, div, span, applet, object, iframe,
+html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -22,9 +22,9 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-} */
+}
 /* HTML5 display-role reset for older browsers */
-/*article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -45,7 +45,7 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
-} */
+}
 
 /* Default font size and family */
 
@@ -98,28 +98,28 @@ pre {
     white-space: pre-wrap; /* makes text wrap */
     font-family: "courier new";
     background-color: rgba(8, 65, 92, 1);
-    color: rgba(238, 229, 233, 1);
+    color: rgba(251, 250, 251, 1);
     border-radius: 1rem;
     padding: 0.5rem;
 }
 
 pre.example-html::before {
     content: "HTML\A\A";
-    background-color: rgba(238, 229, 233, 1);
+    background-color: rgba(251, 250, 251, 1);
     color: rgba(8, 65, 92, 1);
     border-radius: 0.1em;
 }
 
 pre.example-css::before {
     content: "CSS\A\A";
-    background-color: rgba(238, 229, 233, 1);
+    background-color: rgba(251, 250, 251, 1);
     color: rgba(8, 65, 92, 1);
     border-radius: 0.1em;
 }
 
 pre.example-js::before {
     content: "JavaScript    \A\A";
-    background-color: rgba(238, 229, 233, 1);
+    background-color: rgba(251, 250, 251, 1);
     color: rgba(8, 65, 92, 1);
     border-radius: 0.1em;
 }
