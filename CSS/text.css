@@ -91,3 +91,14 @@ h5 {
 h6 {
     font-size: 1.2rem;
 }
+
+/* preformatted text */
+
+pre {
+    white-space: pre-wrap; /* makes text wrap */
+    font-family: "courier new";
+    background-color: #111111;
+    color: #dddddd;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
