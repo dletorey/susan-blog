@@ -5,6 +5,6 @@ body {
     color: #020c11;
 }
 
-article, header, footer, aside {
+article, header, footer, aside, nav {
     background-color: rgba(251, 250, 251, 1);
 }
