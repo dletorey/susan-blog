@@ -196,11 +196,9 @@ a:hover {
 /* external links */
 
 a[href^="http://"]:not([href*="letorey.co.uk"]):after, a[href^="https://"]:not([href*="letorey.co.uk"]):after {
-    content: " ext";
+    content: " ↗";
 }
 
 a[href^="mailto"]::after {
-    content: " mail";
+    content: " ✉︎";
 }
-
-/* comment */
