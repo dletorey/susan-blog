@@ -179,3 +179,26 @@ blockquote::before {
     vertical-align: -0.4em;
 }
 
+/* links */
+
+a, a:visited {
+    background-color:rgba(204, 41, 54, 1);
+    color: rgba(251, 250, 251, 1);
+    text-decoration: underline;
+}
+
+a:hover {
+    color:rgba(204, 41, 54, 1);
+    background-color: rgba(251, 250, 251, 1);
+    text-decoration: underline;
+}
+
+/* external links */
+
+a[href*="//"]:not([href*="letorey.co.uk"])::after {
+    content: "ext"
+}
+
+a[mailto]::after {
+    content: "mail";
+}
