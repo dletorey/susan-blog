@@ -6,10 +6,9 @@
     }
 
     body > * {
-        border: 2px solid #f08c00;
-        background-color: #ffec99;
-        border-radius: 5px;
-        padding: 10px;
+        border: 2px solid #aaaaaa;
+        border-radius: 0.5rem;
+        padding: 0.3rem;
     }
 
     nav ul {
