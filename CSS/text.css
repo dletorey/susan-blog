@@ -104,9 +104,22 @@ pre {
 }
 
 pre.example-html::before {
-    content: "HTML";
+    content: "HTML\A\A";
+    background-color: #dddddd;
+    color: #222222;
+    border-radius: 0.1em;
 }
 
-pre.example-css::before {
-    content: "CSS";
+pre.example-css {
+    content: "CSS\A\A";
+    background-color: #dddddd;
+    color: #222222;
+    border-radius: 0.1em;
+}
+
+pre.example-js::before {
+    content: "JavaScript    \A\A";
+    background-color: #dddddd;
+    color: #222222;
+    border-radius: 0.1em;
 }
