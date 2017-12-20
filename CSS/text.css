@@ -92,7 +92,7 @@ h6 {
     font-size: 1.2rem;
 }
 
-/* preformatted text */
+/* preformatted text <pre> */
 
 pre {
     white-space: pre-wrap; /* makes text wrap */
@@ -101,4 +101,12 @@ pre {
     color: #dddddd;
     border-radius: 1rem;
     padding: 0.5rem;
+}
+
+pre.example-html::before {
+    content: "HTML";
+}
+
+pre.example-css::before {
+    content: "CSS";
 }
