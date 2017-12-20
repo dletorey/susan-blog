@@ -128,3 +128,15 @@ pre.example-js::before {
 hr {
     color:rgba(107, 129, 140, 1);
 }
+
+/* selected text */
+
+::selection {
+    background-color: rgba(204, 41, 54, 1);
+    color: rgba(251, 250, 251, 1);
+ } 
+
+ pre::selection {
+     background-color: rgba(251,250,251,1);
+     color: rgba(8,65,92,1);
+ }
