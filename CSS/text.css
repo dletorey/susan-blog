@@ -61,11 +61,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h3, h5 {
-    color: red;
+    color: rgba(204, 41, 54, 1);
 }
 
 h2, h4, h5 {
-    color: green;
+    color: rgba(8, 65, 92, 1);
 }
 
 h1 {
@@ -97,29 +97,29 @@ h6 {
 pre {
     white-space: pre-wrap; /* makes text wrap */
     font-family: "courier new";
-    background-color: #111111;
-    color: #dddddd;
+    background-color: rgba(8, 65, 92, 1);
+    color: rgba(238, 229, 233, 1);
     border-radius: 1rem;
     padding: 0.5rem;
 }
 
 pre.example-html::before {
     content: "HTML\A\A";
-    background-color: #dddddd;
-    color: #222222;
+    background-color: rgba(238, 229, 233, 1);
+    color: rgba(8, 65, 92, 1);
     border-radius: 0.1em;
 }
 
 pre.example-css::before {
     content: "CSS\A\A";
-    background-color: #dddddd;
-    color: #222222;
+    background-color: rgba(238, 229, 233, 1);
+    color: rgba(8, 65, 92, 1);
     border-radius: 0.1em;
 }
 
 pre.example-js::before {
     content: "JavaScript    \A\A";
-    background-color: #dddddd;
-    color: #222222;
+    background-color: rgba(238, 229, 233, 1);
+    color: rgba(8, 65, 92, 1);
     border-radius: 0.1em;
 }
