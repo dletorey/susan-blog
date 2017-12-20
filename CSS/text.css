@@ -202,3 +202,7 @@ a[href^="http://"]:not([href*="letorey.co.uk"]):after, a[href^="https://"]:not([
 a[href^="mailto"]::after {
     content: " ✉︎";
 }
+
+a[href^="#"] {
+    content: " #";
+}
