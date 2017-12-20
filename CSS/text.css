@@ -110,7 +110,7 @@ pre.example-html::before {
     border-radius: 0.1em;
 }
 
-pre.example-css {
+pre.example-css::before {
     content: "CSS\A\A";
     background-color: #dddddd;
     color: #222222;
