@@ -1,10 +1,10 @@
 /* Colours */
 
 body {
-    background-color: rgba(241, 191, 152, 1);
+    background-color: rgba(249,231,217,0.2);
     color: #020c11;
 }
 
-article {
+article, header, footer, aside {
     background-color: rgba(251, 250, 251, 1);
 }
