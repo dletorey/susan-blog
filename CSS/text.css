@@ -141,3 +141,19 @@ hr {
      background-color: rgba(251,250,251,1);
      color: rgba(8,65,92,1);
  }
+
+ /* blockquotes */
+
+ blockquote {
+    font-family: times, serif;
+    padding: 0 5rem 0.5rem 5rem;
+}
+
+blockquote::before {
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+
