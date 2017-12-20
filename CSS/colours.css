@@ -1,10 +1,10 @@
 /* Colours */
 
 body {
-    background-color: #dddddd;
-    color: #111111;
+    background-color: rgba(241, 191, 152, 1);
+    color: #020c11;
 }
 
 article {
-    background-color: #bbbbbb;
+    background-color: rgba(251, 250, 251, 1);
 }
