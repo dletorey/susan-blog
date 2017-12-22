@@ -120,6 +120,10 @@ sup {
     top: -0.5em;
 }
 
+abbr {
+    color: rgba(204,41,54,1);
+}
+
 /* Lists */
 
 ul {
