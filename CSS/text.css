@@ -200,7 +200,11 @@ hr {
 
  blockquote {
     font-family: times, serif;
-    padding: 0 5rem 0.5rem 5rem;
+    background-color: #f9e9dc;
+    margin: 1rem 5rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    quotes: initial;
 }
 
 blockquote::before {
