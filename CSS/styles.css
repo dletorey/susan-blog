@@ -78,3 +78,10 @@ img {
   padding: 0.2rem;
   box-shadow: 2px 2px 5px 0px rgba(8,65,92,1);
 }
+
+figcaption {
+  color: white;
+  background-color: #08415C;
+  font-size: 0.9rem;
+  padding: 0.2rem;
+}
