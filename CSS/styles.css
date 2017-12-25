@@ -68,3 +68,9 @@ body {
      flex-direction: column;
    }
 }
+
+/* images */
+
+img {
+  max-width: 100%;
+}
