@@ -180,6 +180,13 @@ pre.example-js::before {
     border-radius: 0.1em;
 }
 
+pre.example-matrix::before {
+    content: "Matrix    \A\A";
+    background-color: rgba(251, 250, 251, 1);
+    color: rgba(8, 65, 92, 1);
+    border-radius: 0.1em;
+}
+
 hr {
     color:rgba(107, 129, 140, 1);
 }
