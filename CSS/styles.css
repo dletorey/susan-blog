@@ -86,3 +86,13 @@ figcaption {
   font-size: 0.9rem;
   padding: 0.2rem;
 }
+
+/* Blog list */
+
+.list h2 {
+  clear: both;
+}
+
+.list img, .listing {
+  float: left;
+}
