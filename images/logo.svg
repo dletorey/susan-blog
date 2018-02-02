@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="233px" height="146px" viewBox="0 0 233 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<svg width="1492px" height="192px" viewBox="0 0 1492 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>bowler</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="bowler" fill="#CC2936" fill-rule="nonzero">
+        <g id="bowler" transform="translate(0.000000, 1.000000)" fill="#CC2936" fill-rule="nonzero">
             <path d="M225.273952,92.7448925 C239.9118,108.048613 236.193388,136.082454 192.706101,145.466897 C192.706101,126.155717 159.249459,118.664707 116.714449,118.664707 C71.1140165,118.664707 38.7728981,125.769677 38.7728981,146 C-4.85949695,136.882108 -7.36262334,105.83348 10.150192,90.3091653 C31.4630435,71.4115987 40.1605007,102.827884 116.387955,102.827884 C185.840642,102.827884 201.90237,68.314089 225.273952,92.7448925 Z" id="Shape"></path>
             <path d="M116.454687,92 C150.883125,92 189,74.6117788 189,74.6117788 L189,61.3056891 C189,30.8325321 170.086563,0 116.509063,0 C60.439375,0 44,31.7816506 44,61.3056891 L44,75.2475962 C44,75.2475962 83.5125,92 116.454687,92 Z" id="Shape"></path>
         </g>
+        <text id="letorey.co.uk" font-family="BookmanOldStyle, Bookman Old Style" font-size="203" font-weight="normal" letter-spacing="-0.916317701" fill="#08415C">
+            <tspan x="227" y="146">letorey.co.uk</tspan>
+        </text>
     </g>
 </svg>

@@ -54,6 +54,15 @@ html {
     font-family: "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
 }
 
+/* Logo */
+
+a.logo {
+    font-family: "Bookman Old Style";
+    color: rgba(8, 65, 92, 1);
+    text-decoration: none;
+    font-size: 3rem;
+}
+
 /* headings */
 
 h1, h2, h3, h4, h5, h6 {
