@@ -277,3 +277,8 @@ a.logo {
     text-decoration: none;
     font-size: 3rem;
 }
+
+/* style to add % before and after a string that has a class .keyword */
+.keyword:before, .keyword:after {
+    content: "%";
+}
