@@ -354,7 +354,3 @@ li.tag a {
     margin: .5em;
     padding: .3em;
 }
-
-.tag::before {
-    content: "#";
-}
