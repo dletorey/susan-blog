@@ -1,10 +1,14 @@
 /* Colours */
 
 body {
-    background-color: rgba(249,231,217,0.2);
-    color: #020c11;
+    background-color: #FCFCFC;
+    color: #001514;
 }
 
-article, header, footer, aside, nav {
-    background-color: rgba(251, 250, 251, 1);
+article,
+header,
+footer,
+aside,
+nav {
+    background-color: #FCFCFC;
 }
