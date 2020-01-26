@@ -124,3 +124,7 @@ time {
     color: #ffffff;
     font-size: 0.875rem;
 }
+
+.pagination {
+    text-align: center;
+}
