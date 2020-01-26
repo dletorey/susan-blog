@@ -369,3 +369,7 @@ a.logo {
     text-decoration: none;
     font-size: 3rem;
 }
+
+.hidden {
+    display: none;
+}
