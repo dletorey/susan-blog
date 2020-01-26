@@ -341,3 +341,17 @@ input[type=submit] {
     cursor: pointer;
     border-radius: 5px;
 }
+
+.tags {
+    display: inline;
+}
+
+.tag {
+    border-radius: 5px;
+    border-color: #FF21C0;
+    border: 1px;
+}
+
+.tag::before {
+    content: "#";
+}
