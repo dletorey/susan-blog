@@ -342,14 +342,17 @@ input[type=submit] {
     border-radius: 5px;
 }
 
-.tags {
+.tags li {
     display: inline;
 }
 
-.tag {
+li.tag a {
     border-radius: 5px;
-    border-color: #FF21C0;
-    border: 1px;
+    border-color: #ff21c0;
+    border: solid;
+    text-decoration: none;
+    margin: .5em;
+    padding: .3em;
 }
 
 .tag::before {
