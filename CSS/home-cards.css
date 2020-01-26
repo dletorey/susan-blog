@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
 
 /* Design */
+/*@@
 *,
 *::before,
 *::after {
@@ -19,7 +20,7 @@ body {
     font-weight: 400;
     letter-spacing: 0;
     padding: 1rem;
-}
+} @@*/
 
 .blog {
     max-width: 1200px;
@@ -36,7 +37,7 @@ body {
     margin-top: 0;
 }
 
-/*
+/*@@
 .btn {
   color: #ffffff;
   padding: 0.8rem;
@@ -54,7 +55,7 @@ body {
 .btn:hover {
   background-color: rgba(255, 255, 255, 0.12);
 }
-*/
+@@*/
 
 .cards {
     display: flex;
