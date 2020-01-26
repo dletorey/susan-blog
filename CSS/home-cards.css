@@ -122,7 +122,7 @@ body {
     font-weight: 400;
 }
 
-time {
+.card_content time {
     color: #FCFCFC;
     font-size: 0.7rem;
 }
