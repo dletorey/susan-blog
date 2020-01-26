@@ -72,6 +72,7 @@ body {
 
 .cards_item a {
     text-decoration: none;
+    background-color: #ff21c0;
 }
 
 .cards_item a:hover {
@@ -101,7 +102,7 @@ body {
 
 .card_content {
     padding: 1rem;
-    background: linear-gradient(to bottom left, #EF8D9C 40%, #FFC39E 100%);
+    background: #ff21c0;
 }
 
 .card_title {
