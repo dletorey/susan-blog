@@ -336,6 +336,7 @@ input[type=submit] {
     font-size: 1.5rem;
     padding: 5px 15px;
     background: #FF21C0;
+    color: rgba(251, 250, 251, 1);
     border: 0 none;
     cursor: pointer;
     border-radius: 5px;
