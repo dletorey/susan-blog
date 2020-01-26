@@ -321,3 +321,22 @@ a.logo {
 .hidden {
     display: none;
 }
+
+/* Form Elements */
+
+input {
+    font-size: 1.5rem;
+}
+
+textarea {
+    font-size: 1.5rem;
+}
+
+input[type=submit] {
+    font-size: 1.5rem;
+    padding: 5px 15px;
+    background: #FF21C0;
+    border: 0 none;
+    cursor: pointer;
+    border-radius: 5px;
+}
