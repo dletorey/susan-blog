@@ -160,7 +160,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Istok Web", sans-serif;
+    font-family: Arial, sans-serif;
     font-weight: 600;
 }
 
@@ -315,7 +315,7 @@ a:focus {
 /* Logo */
 
 a.logo {
-    font-family: "Istok Web";
+    font-family: Arial;
     background-color: #005eb8;
     color: rgba(251, 250, 251, 1);
     text-decoration: none;
