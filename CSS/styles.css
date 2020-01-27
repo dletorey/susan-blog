@@ -86,15 +86,13 @@ body {
 img {
   max-width: 100%;
   height: auto;
-  border: 1px solid #08415c;
   padding: .2rem;
-  box-shadow: 2px -2px 5px 0 rgba(8, 65, 92, 1);
   margin-top: 0.5rem;
 }
 
 figcaption {
   color: white;
-  background-color: #08415C;
+  background-color: #005eb8;
   font-size: 0.9rem;
   padding: 0.2rem;
 }
