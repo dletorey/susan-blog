@@ -326,11 +326,15 @@ a.logo {
 }
 
 @media (min-width: 399px) {
-    font-size: 2.4rem;
+    a.logo {
+        font-size: 2.4rem;
+    }
 }
 
 @media (min-width: 599px) {
-    font-size: 3rem;
+    a.logo {
+        font-size: 3rem;
+    }
 }
 
 a.logo:hover {
