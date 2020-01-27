@@ -343,7 +343,7 @@ input[type=submit] {
 }
 
 .tags li {
-    display: inline;
+    display: inline-block;
 }
 
 li.tag a {
@@ -353,4 +353,5 @@ li.tag a {
     text-decoration: none;
     margin: .5em;
     padding: .3em;
+    display: inline-block;
 }
