@@ -319,10 +319,14 @@ a.logo {
     background-color: #005eb8;
     color: rgba(251, 250, 251, 1);
     text-decoration: none;
-    font-size: 3rem;
+    font-size: 2.75rem;
     font-weight: 800;
     font-style: italic;
     padding: .5rem;
+}
+
+@media (min-width: 599px) {
+    font-size: 3rem;
 }
 
 a.logo:hover {
