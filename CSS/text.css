@@ -163,13 +163,13 @@ h6 {
 h1,
 h3,
 h5 {
-    color: #FF21C0;
+    color: #005eb8;
 }
 
 h2,
 h4,
 h6 {
-    color: #004BA8;
+    color: #d65108;
 }
 
 h1 {
@@ -225,12 +225,12 @@ sup {
 }
 
 abbr {
-    color: #FF21C0;
+    color: #005eb8;
 }
 
 del {
     text-decoration: line-through;
-    color: rgba(255, 33, 192, 0.7);
+    color: rgba(0, 94, 184, 0.7);
 }
 
 /* Lists */
@@ -253,7 +253,7 @@ ol {
 }
 
 hr {
-    color: #FF21C0;
+    color: #005eb8;
 
 }
 
@@ -261,7 +261,7 @@ hr {
 
 ::selection,
 .selection {
-    background-color: #FF21C0;
+    background-color: #005eb8;
     color: rgba(251, 250, 251, 1);
 }
 
@@ -293,7 +293,7 @@ cite {
 
 a,
 a:visited {
-    color: #FF21C0;
+    color: #005eb8;
     text-decoration: underline;
     text-decoration-skip: ink;
     text-decoration-skip-ink: auto;
@@ -302,7 +302,7 @@ a:visited {
 
 a:hover,
 a:focus {
-    color: #004BA8;
+    color: #d65108;
     text-decoration: underline;
     text-decoration-skip: ink;
     text-decoration-skip-ink: auto;
@@ -312,7 +312,7 @@ a:focus {
 
 a.logo {
     font-family: "Bookman Old Style";
-    color: #FF21C0;
+    color: #005eb8;
     text-decoration: none;
     font-size: 3rem;
     font-weight: 800;
@@ -335,7 +335,7 @@ textarea {
 input[type=submit] {
     font-size: 1.5rem;
     padding: 5px 15px;
-    background: #FF21C0;
+    background: #005eb8;
     color: rgba(251, 250, 251, 1);
     border: 0 none;
     cursor: pointer;
@@ -348,7 +348,7 @@ input[type=submit] {
 
 li.tag a {
     border-radius: 5px;
-    border-color: #ff21c0;
+    border-color: #005eb8;
     border: solid;
     text-decoration: none;
     margin: .5em;

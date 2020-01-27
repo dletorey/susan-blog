@@ -72,7 +72,7 @@ body {
 
 .cards_item a {
     text-decoration: none;
-    background-color: #ff21c0;
+    background-color: #005eb8;
 }
 
 .cards_item a:hover {
@@ -102,7 +102,7 @@ body {
 
 .card_content {
     padding: 1rem;
-    background: #ff21c0;
+    background: #005eb8;
 }
 
 .card_title {
