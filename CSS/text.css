@@ -307,9 +307,6 @@ a:visited {
 a:hover,
 a:focus {
     color: #d65108;
-    text-decoration: underline;
-    text-decoration-skip: ink;
-    text-decoration-skip-ink: auto;
 }
 
 /* Logo */
