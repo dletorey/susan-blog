@@ -1,33 +1,33 @@
 .bodycopy_content_wrapper {
-    background-color: #FCFCFC;
-    color: #001514;
-    font-family: Arial, sans-serif;
-    font-size: 20px;
+    background-color: #FCFCFC !important;
+    color: #001514 !important;
+    font-family: Arial, sans-serif !important;
+    font-size: 20px !important;
 }
 
 /* Headings */
 .bodycopy_content_wrapper h1,
 .bodycopy_content_wrapper h3,
 .bodycopy_content_wrapper .h5 {
-    font-weight: 600;
-    color: #005eb8;
+    font-weight: 600 !important;
+    color: #005eb8 !important;
 }
 
 .bodycopy_content_wrapper h2,
 .bodycopy_content_wrapper h4,
 .bodycopy_content_wrapper .h6 {
-    font-weight: 600;
-    color: #d65108;
+    font-weight: 600 !important;
+    color: #d65108 !important;
 }
 
 .bodycopy_content_wrapper a {
-    color: #005eb8;
-    text-decoration: underline;
-    text-decoration-skip: ink;
-    text-decoration-skip-ink: auto;
+    color: #005eb8 !important;
+    text-decoration: underline !important;
+    text-decoration-skip: ink !important;
+    text-decoration-skip-ink: auto !important;
 }
 
 .bodycopy_content_wrapper a:focus,
 .bodycopy_content_wrapper a:hover {
-    color: #d65108;
+    color: #d65108 !important;
 }
