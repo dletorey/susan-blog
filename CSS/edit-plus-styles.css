@@ -20,6 +20,31 @@
     color: #d65108 !important;
 }
 
+
+.bodycopy_content_wrapper h1 {
+    font-size: 2rem !important;
+}
+
+.bodycopy_content_wrapper h2 {
+    font-size: 1.8rem !important;
+}
+
+.bodycopy_content_wrapper h3 {
+    font-size: 1.6rem !important;
+}
+
+.bodycopy_content_wrapper h4 {
+    font-size: 1.4rem !important;
+}
+
+.bodycopy_content_wrapper h5 {
+    font-size: 1.3rem !important;
+}
+
+.bodycopy_content_wrapper h6 {
+    font-size: 1.2rem !important;
+}
+
 .bodycopy_content_wrapper a {
     color: #005eb8 !important;
     text-decoration: underline !important;
@@ -30,4 +55,35 @@
 .bodycopy_content_wrapper a:focus,
 .bodycopy_content_wrapper a:hover {
     color: #d65108 !important;
+}
+
+.bodycopy_content_wrapper p {
+    padding: 0.5rem !important;
+}
+
+.bodycopy_content_wrapper hr {
+    color: #005eb8 !important;
+
+}
+
+.bodycopy_content_wrapper ::selection,
+.bodycopy_content_wrapper .selection {
+    background-color: #005eb8 !important;
+    color: rgba(251, 250, 251, 1) !important;
+}
+
+.bodycopy_content_wrapper blockquote {
+    font-family: times, serif !important;
+    background-color: rgba(74, 82, 90, 0.4) !important;
+    margin: 1rem 5rem !important;
+    border-radius: 0.5rem !important;
+    padding: 0.5rem !important;
+    quotes: initial !important;
+}
+
+.bodycopy_content_wrapper blockquote::before {
+    content: open-quote !important;
+    font-size: 4em !important;
+    line-height: 0.1em !important;
+    vertical-align: -0.4em !important;
 }
