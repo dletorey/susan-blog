@@ -1,3 +1,14 @@
+.plus .content #ees_screenContentWrapper,
+.plus .metadata #ees_screenContentWrapper {
+    width: 1200px !important;
+}
+
+.plus #ees_viperContent,
+.plus .ees_viperContent {
+    width: 1200px !important;
+    margin: 0 auto !important;
+}
+
 .bodycopy_content_wrapper {
     background-color: #FCFCFC !important;
     color: #001514 !important;
