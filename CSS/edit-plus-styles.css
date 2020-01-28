@@ -1,0 +1,33 @@
+.bodycopy_content_wrapper {
+    background-color: #FCFCFC;
+    color: #001514;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+/* Headings */
+.bodycopy_content_wrapper h1,
+.bodycopy_content_wrapper h3,
+.bodycopy_content_wrapper .h5 {
+    font-weight: 600;
+    color: #005eb8;
+}
+
+.bodycopy_content_wrapper h2,
+.bodycopy_content_wrapper h4,
+.bodycopy_content_wrapper .h6 {
+    font-weight: 600;
+    color: #d65108;
+}
+
+.bodycopy_content_wrapper a {
+    color: #005eb8;
+    text-decoration: underline;
+    text-decoration-skip: ink;
+    text-decoration-skip-ink: auto;
+}
+
+.bodycopy_content_wrapper a:focus,
+.bodycopy_content_wrapper a:hover {
+    color: #d65108;
+}
