@@ -376,3 +376,7 @@ li.tag a {
     padding: .3em;
     display: inline-block;
 }
+
+small.reading-time {
+    font-size: 0.8rem;
+}
