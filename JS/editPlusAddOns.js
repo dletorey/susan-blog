@@ -1,4 +1,4 @@
-EasyEdit.plugins.addPageHeading = {
+function addPageHeading(){
     const pageName = EasyEditAssetManager._currentAsset.attr.name;
     const pageHeading = document.createElement('h1');
     const h1Placer = document.querySelector('.ees_viperContent');
