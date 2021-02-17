@@ -5,6 +5,7 @@
 body {
   margin: 0 auto;
   font: 1.2em Helvetica, arial, sans-serif;
+  max-width: 1440px;
 }
 
 body>* {
